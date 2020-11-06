@@ -21,7 +21,7 @@
 title: RCJNSW SoccerSim
 logo: "/assets/images/soccersim-logo-light.svg"
 description: >- # this means to ignore newlines until "baseurl:"
-  RoboCupJunior NSW SoccerSim docs.
+  RoboCup Junior NSW SoccerSim docs.
 baseurl: "/soccersim-docs" # the subpath of your site, e.g. /blog
 url: "https://rcjnsw.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -31,7 +31,7 @@ aux_links:
 
 # Footer content 
 # appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2020 RoboCupJunior NSW"
+footer_content: "Copyright &copy; 2020 RoboCup Junior NSW"
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
