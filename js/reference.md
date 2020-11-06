@@ -14,9 +14,10 @@ This is a raw reference guide for functions available in the SoccerSim.
 {:toc}
 
 ## Robot
-### `setMotorSpeed(motor, speed)`
+### setMotorSpeed
 
 <div class="code-example" markdown="1">
+`setMotorSpeed(motor, speed)`
 Sets the motor speed, for a particular motor.
 * `motor` (String) motor name, e.g. `'motorA'`
 * `speed` (Number) number between -100 and 100, a positive value drives the motor forwards.
@@ -28,9 +29,10 @@ setMotorSpeed('motorA', 30);
 setMotorSpeed('motorB', -30);
 ```
 
-### `stopMotor(motor)`
+### stopMotor
 
 <div class="code-example" markdown="1">
+`stopMotor(motor)`
 Stops a particular motor.
 * `motor` (String) motor name, e.g. `'motorA'`
 </div>
@@ -41,9 +43,10 @@ stopMotor('motorA');
 stopMotor('motorB');
 ```
 
-### `getMotorSpeed(motor)`
+### getMotorSpeed
 
 <div class="code-example" markdown="1">
+`getMotorSpeed(motor)`
 Returns the current speed of the motor.
 * `motor` (String) motor name, e.g. `'motorA'`
 </div>
