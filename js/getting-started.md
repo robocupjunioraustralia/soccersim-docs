@@ -1,7 +1,9 @@
 ---
 layout: page
-title: JS - Getting started
-permalink: /javascript-getting-started/
+title: Getting started
+parent: JavaScript
+nav_order: 1
+permalink: js/getting-started/
 ---
 
 # Getting started with JavaScript
@@ -13,7 +15,9 @@ JavaScript is pretty similar to C or Python - it just has a slightly different s
 * [JavaScript Fundamentals](https://javascript.info/first-steps) - a thorough introductory guide to programming in JavaScript on the browser
 * [MDN: JavaScripts basics crash course](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics#Language_basics_crash_course) - useful for students who have done some text programming before
 
-# Your first SoccerSim program
+----
+
+## Your first SoccerSim program
 The best way to start is to try get the robot moving! The following code will get your robot moving forward:
 
 ```js
