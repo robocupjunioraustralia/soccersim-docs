@@ -2,19 +2,18 @@
 layout: home
 title: Home
 nav_order: 0
-description: "SoccerSim is a online RoboCup Junior soccer simulator."
+description: "SoccerSim is an online RoboCup Junior soccer simulator."
 ---
-# RCJNSW SoccerSim
+# RCJA SoccerSim
 {: .fs-9 }
 
-SoccerSim is a new soccer simulator by RoboCup Junior NSW! Code up a robot to compete against other robots in either Blocks or JavaScript languages. 
-{: .fs-6 .fw-300 }
+**SoccerSim** is a new soccer simulaton platform by RoboCup Junior Australia that brings RoboCup soccer into an online simulation platform. Hone your strategy and soccer skills by programming on-screen robots to detect and follow the ball.
 
-
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
-
-Welcome to SoccerSim docs! This is a site where you will find instructions on how to program and run simulated robots in SoccerSim. 
+Here you'll find instructions and tips on how to program using SoccerSim.
 
 ----
+
+## Get started
+
 
 [Blocks](blocks){: .btn } [JavaScript](js){: .btn }

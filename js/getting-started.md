@@ -7,7 +7,7 @@ permalink: js/getting-started/
 ---
 
 # Getting started with JavaScript
-Let's code your first simulation robot in SoccerSim! First, open up https://rcjnsw.github.io/soccersim/javascript. On the left, you have an editor, where you can program JavaScript code. On the right, you have the simulation.
+Let's code your first simulation robot in SoccerSim! First, open up [https://rcjnsw.github.io/soccersim/javascript](https://rcjnsw.github.io/soccersim/javascript). On the left, you have an editor, where you can program JavaScript code. On the right, you have the simulation.
 
 JavaScript is pretty similar to C or Python - it just has a slightly different syntax. The following links may be helpful:
 
@@ -30,3 +30,7 @@ while (1) {
 Then hit the green Run all button! You should see the robot move forward. You can click and drag on the robot to move it back. To rotate the robot, click and drag on the robot's wheels.
 
 To stop the robot, click the red 'Stop all' button. 
+
+----
+
+For all robot commands, see the [JavaScript reference guide](../reference/).
