@@ -1,5 +1,5 @@
 # soccersim-docs
-Documentation for (SoccerSim)[https://github.com/rcjnsw/soccersim], a RoboCup Junior Australia Soccer simulator in the browser!
+Documentation for [SoccerSim](https://github.com/rcjnsw/soccersim), a RoboCup Junior Australia Soccer simulator in the browser!
 
 # Deployment
 Docs will automatically be deployed using GitHub Pages to https://rcjnsw.github.io/soccersim-docs. To get it into production:
