@@ -23,10 +23,27 @@ The most common and useful blocks are:
 * **Operators**: To make comparisons with 'if' blocks, you will find 'equals', 'greater than' and most other blocks here.
 * **Sensors**: for your ball direction (in degrees), ball distance (in pixels) and robot heading (in degrees)
 
-The best way to start is to try get the robot moving! Place a 'repeat forever' block into the workspace, and then two 'set motor speed' blocks - one for motor A (left) and motor B (right). Change the speeds to 50.
+The best way to start is to try get the robot moving! 
 
-<img src="/soccersim-docs/assets/blocks/forever_forward.svg" style="max-width:250px"/>
+First, place a **'repeat forever'** block (Control) into the workspace. This means that our robot is always going to repeatedly move and react to the ball. We also should set the starting position for the robot, meaning we should use a **'set starting position'** block (Events) at the very beginning of our program.
+
+<img src="/soccersim/docs/assets/blocks/starting.svg"/>
+
+## Moving forward
+
+Let's make our robot move forward. Add two **'set motor speed'** blocks (Motors) - one for motor A (left) and motor B (right). Change the speeds to 50.
+
+<img src="/soccersim/docs/assets/blocks/forever_forward.svg"/>
 
 Then hit the green Run all button! You should see the robot move forward. You can click and drag on the robot to move it back. To rotate the robot, click and drag on the robot's wheels.
 
 To stop the robot, click the red 'Stop all' button. 
+
+## Rotating
+
+If we want to rotate on the spot, we can easily set one of the motors to be a negative value. The motor speeds can be between -100 and 100.
+
+If we set the left wheel to -50, and the right wheel to 50, then it will rotate anti-clockwise.
+
+<img src="/soccersim/docs/assets/blocks/anticlockwise.svg"/>
+

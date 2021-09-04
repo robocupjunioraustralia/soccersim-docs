@@ -16,4 +16,10 @@ Here you'll find instructions and tips on how to program using SoccerSim.
 ## Get started
 
 
-[Blocks](blocks){: .btn } [JavaScript](js){: .btn }
+[Blocks](blocks){: .btn .btn-outline } [JavaScript](js){: .btn .btn-outline }
+
+----
+
+We also have a YouTube playlist summarising some of the content in these docs.
+
+[SoccerSim YouTube playlist](https://www.youtube.com/playlist?list=PL3BA7TyCKOr-rPOv9suLmuvuKRCPMXfcK){: .btn .btn-outline }

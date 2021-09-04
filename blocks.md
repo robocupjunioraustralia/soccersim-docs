@@ -2,7 +2,7 @@
 layout: page
 title: Blocks
 nav_order: 2
-permalink: blocks
+permalink: blocks/
 has_children: true
 ---
 
